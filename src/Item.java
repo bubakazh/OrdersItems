@@ -23,4 +23,5 @@ public class Item {
     public void setPrice(double price){
         this.price = price;
     }
+    // DIDN'T USE SOME SETTERS AND GETTERS
 }

@@ -67,9 +67,8 @@ public class Order {
     public ArrayList<Item> getItems() {
         return items;
     }
-    // I DON'T THINK THAT I NEED A SETTER FOR THE ARRAY LIST, BECAUSE IT'S MADE IN THE CONSTRUCTOR, RIGHT?
-    // WRONG
     public void setItems(ArrayList<Item> items){
         this.items = items;
     }
+    // DIDN'T USE SOME SETS AND GETS
 }
